@@ -1,5 +1,8 @@
 # CI4 API
 
+1. git clone
+2. composer update
+
 Buat databse dengan nama kasku_api
 
 lalu buat tabel dengan perintah dibawah
